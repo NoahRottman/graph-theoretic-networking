@@ -11,7 +11,7 @@ This began as a personal observation during a job search and evolved into an app
 
 PDF write-up included.
 
-Potential Limitations & Extensions
+## Potential Limitations & Extensions
 
 **Partial Observability** – The paper acknowledges but doesn’t deeply simulate the challenge that users only see part of the network (e.g., only 1st-degree connections’ profiles). This could be expanded.
 
